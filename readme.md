@@ -9,7 +9,7 @@ Repositório de códigos do bootcamp de ED de 2022
 * André Sionek - [Github](https://github.com/andresionek91)
 * Rhuan Lima - [Github](https://github.com/rhuanlima)
 
-## Calendário
+## Agenda
 
 - 11/01 (Terça): Encontro Inaugural
 Módulos liberados: Fundamentos de Ingestão de Dados e SQL 
