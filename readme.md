@@ -1,4 +1,4 @@
-# HOW Bootcamp Formação de dados
+# HOW Bootcamp Formação de Dados
 
 ## Engenharia de dados - fev/22
 
